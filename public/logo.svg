@@ -1,0 +1,28 @@
+<svg width="303" height="300" viewBox="0 0 333 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#000000" />
+
+  <defs>
+    <style>
+      .brand-text {
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: bold;
+        font-size: 24px;
+        fill: #ffffff;
+      }
+    </style>
+  </defs>
+
+  <!-- Top and bottom chevrons -->
+  <path fill="#ffffff" fill-rule="evenodd" d="M5,65 L166.5,0 L328,65 L166.5,10 Z M5,211 L166.5,291 L328,206 L166.5,281 Z" />
+
+  <!-- Central abstract symbol -->
+  <g transform="matrix(1.5571,0,0,1.5571,129.44,83.73)">
+    <path fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M33.536,12.11c-4.837-5.08-12.327-7.248-19.452-4.953C4.169,10.35-1.28,20.975,1.913,30.891c3.193,9.913,13.818,15.363,23.733,12.17c3.859-1.242,7.041-3.611,9.301-6.625" />
+    <path fill="none" stroke="#ffffff" stroke-width="2" d="M15.571,11.774c-7.364,2.372-11.412,10.264-9.04,17.628" />
+    <circle fill="none" stroke="#ffffff" stroke-width="2" cx="19.865" cy="25.109" r="4.51" />
+    <path fill="none" stroke="#ffffff" stroke-width="2" d="M35.378,26.542c-2.512-3.459,4.347-4.973,6.817-4.019c3.047,1.177,7.605,7.233,2.518,11.665c-2.647,2.303-4.904,2.553-7.58,2.387c-2.902-0.184-4.346-0.084-6.771-1.965c-3.747-2.908-4.368-7.328-1.09-11.449c1.378-1.733,2.995-3.277,4.096-5.175c1.363-2.348,2.818-4.763,3.766-7.243c0.513-1.342,1.316-4.414,0.213-5.856c-1.53-1.999-3.729-0.106-3.979,1.548c-0.89,5.901,2.112,12.033,3.891,17.438c0.938,2.849,1.359,5.602,1.631,8.616c0.203,2.239,0.787,5.315-0.754,7.234c-1.023,1.275-2.671,1.981-4.262,2.034" />
+  </g>
+
+  <!-- Brand name below the music logo -->
+  <text x="50%" y="190" text-anchor="middle" class="brand-text">Coded Beats</text>
+</svg>
